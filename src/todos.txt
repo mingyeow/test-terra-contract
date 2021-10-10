@@ -1,0 +1,8 @@
+Cosmos:
+- who sets deps.storage?
+- why is depsmut
+- how is the entrypoint done
+- what is the relationship between the 
+
+Rust:
+- When do you pass in reference and when do you use the "thing?"
